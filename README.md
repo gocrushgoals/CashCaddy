@@ -22,7 +22,9 @@ Cash Caddy is a finance tracker app designed to help users manage their expenses
 
 ## Installation
 
-
+- Git clone to your local host and run `npm i` in the client, server, and root. 
+- `npm start` in the client and server.
+- navigate to the localhost:3000 to see the client folder in action.
 
 ## Usage
 1. Register for an account or log in if you already have one.
@@ -45,6 +47,13 @@ Cash Caddy is a finance tracker app designed to help users manage their expenses
 
 ## Contributors
 
+This Application was developed by:
+
+- Ben [Github](https://github.com/BenRavandi)
+- Kristina [Github](https://github.com/gocrushgoals)
+- Storm [Github](https://github.com/Spowell01)
+- Tania [Github](https://github.com/Shrcker)
+- Zack  [Github](https://github.com/harveyzr)
 
 ## License
 This project is licensed under the MIT License. 
