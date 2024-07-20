@@ -12,6 +12,9 @@
 ## Description
 Cash Caddy is a finance tracker app designed to help users manage their expenses and budget effectively. With Cash Caddy, users can easily track their spending, categorize expenses, and visualize their financial data through intuitive charts and graphs.
 
+The link to deployed CashCaddy app:<br>
+https://cashcaddy-1.onrender.com/
+
 ## Features
 - User authentication and authorization (JWT)
 - Add, edit, and delete expenses
@@ -44,7 +47,7 @@ Cash Caddy is a finance tracker app designed to help users manage their expenses
   - JWT for authentication
 
 ## Contributors
-
+Zach, Ben, Kristi, Storm & Tania
 
 ## License
 This project is licensed under the MIT License. 
